@@ -1,0 +1,33 @@
+{
+  "address": "Test",
+  "name": "Test",
+  "allocator_id": "Test",
+  "organization": "Test",
+  "metapathway_type": "MA",
+  "ma_address": "0x386f08f6E8E4647B871415EBFB858b1e377d9ab2",
+  "associated_org_addresses": "Test",
+  "application": {
+    "audit": [
+      "Enterprise Data "
+    ],
+    "distribution": [],
+    "required_sps": "2",
+    "required_replicas": "2",
+    "tooling": [],
+    "github_handles": [
+      "12345"
+    ],
+    "client_contract_address": ""
+  },
+  "status": {},
+  "LifeCycle": {
+    "Audit 1": [
+      "1747382759570",
+      "5"
+    ]
+  },
+  "pathway_addresses": {
+    "msig": "Test",
+    "signer": []
+  }
+}
