@@ -1,0 +1,44 @@
+{
+  "address": "f27vme4xvjuzwnrx4djdd52jnj5y3arvrtvhc5niy",
+  "name": "market test v2",
+  "allocator_id": "f27vme4xvjuzwnrx4djdd52jnj5y3arvrtvhc5niy",
+  "organization": "govteam",
+  "pathway_addresses": {
+    "msig": "f27vme4xvjuzwnrx4djdd52jnj5y3arvrtvhc5niy",
+    "signers": [
+      "f1k4zrriujtwdlea64k7saa3l7jkbatzebfzinj7i",
+      "f1r3lzgzpja2hvhcaxcdruic5qol2as27jl52xtvq",
+      "f1tmewdaoz2wmoocpyforkqamwevw65jehxszct6i",
+      "f1msap4wvgzzv4xlzeq6kycmgx55ferfloxnt2rcy"
+    ]
+  },
+  "associated_org_addresses": "f1v24knjbqv5p6qrmfjj5xmlaoddzqnon2oxkzkyq",
+  "application": {
+    "audit": [
+      "Market-based Allocator"
+    ],
+    "distribution": [],
+    "tranche_schedule": "I will use a custom calculation. ",
+    "required_sps": "1",
+    "required_replicas": "1",
+    "tooling": [],
+    "github_handles": [
+      "govteam"
+    ],
+    "client_contract_address": ""
+  },
+  "history": {
+    "Application Submitted": null,
+    "KYC Submitted": null,
+    "Approved": null,
+    "Declined": null,
+    "DC Allocated": null
+  },
+  "audit_outcomes": {
+    "Audit 1": [
+      "1747918010264",
+      "5"
+    ]
+  },
+  "old_allocator_id": ""
+}
