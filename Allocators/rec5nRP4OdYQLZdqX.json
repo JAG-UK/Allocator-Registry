@@ -3,6 +3,8 @@
   "address": "f1nmtksi22xjz44mdpcztss4mx3ofmdjzfea2sdny",
   "name": "market tues1",
   "organization": "govteam",
+  "metapathway_type": "RKH",
+  "ma_address": "f080",
   "pathway_addresses": {},
   "associated_org_addresses": "f1a5b5cn5xgsmui2kivzj2eryzrqmhmew4tytj3by",
   "application": {
@@ -22,14 +24,14 @@
   "history": {
     "Application Submitted": 1747917932607,
     "KYC Submitted": 1748093385852,
-    "Approved": null,
+    "Approved": 1748093410629,
     "Declined": null,
     "DC Allocated": null
   },
   "audit_outcomes": {
     "Audit 1": [
       "1747917920279",
-      "5"
+      "7"
     ]
   },
   "old_allocator_id": ""
