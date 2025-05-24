@@ -23,15 +23,15 @@
   },
   "history": {
     "Application Submitted": 1747917932607,
-    "KYC Submitted": 1748093385852,
-    "Approved": 1748093410629,
+    "KYC Submitted": null,
+    "Approved": null,
     "Declined": null,
     "DC Allocated": null
   },
   "audit_outcomes": {
     "Audit 1": [
       "1747917920279",
-      "7"
+      "5"
     ]
   },
   "old_allocator_id": ""
