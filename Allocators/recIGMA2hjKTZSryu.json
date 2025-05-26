@@ -34,11 +34,11 @@
     "KYC Submitted": 1748271589596,
     "Approved": 1748271623875,
     "Declined": null,
-    "DC Allocated": null
+    "DC Allocated": 1748280177990
   },
   "audit_outcomes": {
     "Audit 1": [
-      "1748251944974",
+      "1748280177990",
       "5"
     ]
   },
