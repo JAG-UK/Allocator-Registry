@@ -4,6 +4,8 @@
   "name": "FIDL Public Open Dataset",
   "allocator_id": "f03015751",
   "organization": "FIDL",
+  "metapathway_type": "RKH",
+  "ma_address": "f080",
   "pathway_addresses": {
     "msig": "f2gf2at3tv5mtv7cbkq6lh3ptgzz4aju5fweciyaq",
     "signers": [
@@ -30,7 +32,7 @@
   "history": {
     "Application Submitted": "2025-05-27T10:48:31.811Z",
     "KYC Submitted": "2025-05-27T10:49:33.248Z",
-    "Approved": "",
+    "Approved": "2025-05-27T10:49:47.258Z",
     "Declined": "",
     "DC Allocated": ""
   },
@@ -40,7 +42,7 @@
       "ended": "",
       "dc_allocated": "",
       "outcome": "PENDING",
-      "datacap_amount": 5
+      "datacap_amount": 3.9
     }
   ],
   "old_allocator_id": ""
