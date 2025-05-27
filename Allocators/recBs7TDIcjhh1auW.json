@@ -4,6 +4,8 @@
   "name": "MediaPlatformData",
   "allocator_id": "f03014641",
   "organization": "MetaEra",
+  "metapathway_type": "RKH",
+  "ma_address": "f080",
   "pathway_addresses": {
     "msig": "f2y7haenxlzx372nqgt56ndf5qjxcokbub62glpky",
     "signers": [
@@ -28,7 +30,7 @@
   "history": {
     "Application Submitted": "2025-05-27T13:27:02.315Z",
     "KYC Submitted": "2025-05-27T13:42:31.621Z",
-    "Approved": "",
+    "Approved": "2025-05-27T13:44:42.899Z",
     "Declined": "",
     "DC Allocated": ""
   },
@@ -38,7 +40,7 @@
       "ended": "",
       "dc_allocated": "",
       "outcome": "PENDING",
-      "datacap_amount": 5
+      "datacap_amount": 17.3
     }
   ],
   "old_allocator_id": ""
