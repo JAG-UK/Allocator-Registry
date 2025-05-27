@@ -21,12 +21,13 @@
     "github_handles": [
       "galen-mcandrew"
     ],
+    "allocation_bookkeeping": "https://github.com/filecoin-project/Allocator-Governance",
     "client_contract_address": ""
   },
   "history": {
-    "Application Submitted": "2025-05-27T17:31:40.642Z",
-    "KYC Submitted": "2025-05-27T17:32:03.285Z",
-    "Approved": "2025-05-27T17:32:13.209Z",
+    "Application Submitted": "2025-05-27T17:31:40.000Z",
+    "KYC Submitted": "2025-05-27T17:32:03.000Z",
+    "Approved": "2025-05-27T17:32:13.000Z",
     "Declined": "",
     "DC Allocated": ""
   },
