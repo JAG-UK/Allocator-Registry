@@ -21,16 +21,16 @@
   },
   "history": {
     "Application Submitted": "2025-05-27T08:52:18.856Z",
-    "KYC Submitted": "1970-01-01T00:00:00.000Z",
-    "Approved": "1970-01-01T00:00:00.000Z",
-    "Declined": "1970-01-01T00:00:00.000Z",
-    "DC Allocated": "1970-01-01T00:00:00.000Z"
+    "KYC Submitted": "2025-05-27T09:09:21.415Z",
+    "Approved": "",
+    "Declined": "",
+    "DC Allocated": ""
   },
   "audits": [
     {
-      "started": "1970-01-01T00:00:00.000Z",
-      "ended": "1970-01-01T00:00:00.000Z",
-      "dc_allocated": "1970-01-01T00:00:00.000Z",
+      "started": "",
+      "ended": "",
+      "dc_allocated": "",
       "outcome": "PENDING",
       "datacap_amount": 5
     }
