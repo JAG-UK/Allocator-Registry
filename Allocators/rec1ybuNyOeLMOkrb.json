@@ -4,6 +4,8 @@
   "name": "FIDL Enterprise Data",
   "allocator_id": "f03015757",
   "organization": "FIDL",
+  "metapathway_type": "RKH",
+  "ma_address": "f080",
   "pathway_addresses": {
     "msig": "f27vme4xvjuzwnrx4djdd52jnj5y3arvrtvhc5niy",
     "signers": [
@@ -22,6 +24,7 @@
     "tranche_schedule": "I will use the standard Allocation Tranche Schedule",
     "required_sps": "2",
     "required_replicas": "2",
+    "tooling": [],
     "github_handles": [
       "martapiekarska"
     ],
@@ -31,14 +34,14 @@
   "history": {
     "Application Submitted": "2025-05-29T17:01:37.000Z",
     "KYC Submitted": "2025-06-12T15:00:31.000Z",
-    "Approved": "",
+    "Approved": "2025-06-12T15:00:43.000Z",
     "Declined": "",
     "DC Allocated": ""
   },
   "audits": [
     {
       "started": "2025-05-29T17:01:26.000Z",
-      "ended": "",
+      "ended": "2025-06-12T15:00:43.000Z",
       "dc_allocated": "",
       "outcome": "PENDING",
       "datacap_amount": 5
