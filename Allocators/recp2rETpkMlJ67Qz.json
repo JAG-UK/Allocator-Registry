@@ -1,5 +1,4 @@
 {
-  "application_number": 1370,
   "address": "f1xk4bsgn3hjobod4hoovtt4iuivgocwhduzwabxa",
   "name": "DCENT FIL+ Commercial Deals",
   "organization": "DCENT BV",
@@ -20,7 +19,7 @@
     "client_contract_address": ""
   },
   "history": {
-    "Application Submitted": "2025-08-24T17:41:18.000Z",
+    "Application Submitted": "",
     "KYC Submitted": "",
     "Approved": "",
     "Declined": "",
@@ -28,7 +27,7 @@
   },
   "audits": [
     {
-      "started": "2025-08-24T17:40:53.000Z",
+      "started": "2025-08-24T17:41:05.000Z",
       "ended": "",
       "dc_allocated": "",
       "outcome": "PENDING",
