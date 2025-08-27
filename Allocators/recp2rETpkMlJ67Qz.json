@@ -3,6 +3,8 @@
   "address": "f1xk4bsgn3hjobod4hoovtt4iuivgocwhduzwabxa",
   "name": "DCENT FIL+ Commercial Deals",
   "organization": "DCENT BV",
+  "metapathway_type": "RKH",
+  "ma_address": "f080",
   "pathway_addresses": {},
   "associated_org_addresses": "f2om4d4e33huuiphsjjvs7mkeafeoastu2gzfjsey",
   "application": {
@@ -13,6 +15,7 @@
     "tranche_schedule": "I will use the standard Allocation Tranche Schedule",
     "required_sps": "2",
     "required_replicas": "2",
+    "tooling": [],
     "github_handles": [
       "https://github.com/cryptowhizzard"
     ],
@@ -22,17 +25,17 @@
   "history": {
     "Application Submitted": "2025-08-27T18:05:36.000Z",
     "KYC Submitted": "2025-08-27T18:06:26.000Z",
-    "Approved": "",
+    "Approved": "2025-08-27T18:06:44.000Z",
     "Declined": "",
     "DC Allocated": ""
   },
   "audits": [
     {
       "started": "2025-08-27T18:05:16.000Z",
-      "ended": "",
+      "ended": "2025-08-27T18:06:44.000Z",
       "dc_allocated": "",
       "outcome": "PENDING",
-      "datacap_amount": 5
+      "datacap_amount": "120"
     }
   ],
   "old_allocator_id": ""
