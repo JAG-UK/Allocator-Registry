@@ -26,15 +26,15 @@
     "client_contract_address": ""
   },
   "history": {
-    "Application Submitted": "2025-08-27T17:33:47.000Z",
-    "KYC Submitted": "",
+    "Application Submitted": "2025-08-27T17:33:38.000Z",
+    "KYC Submitted": "2025-08-27T17:34:24.000Z",
     "Approved": "",
     "Declined": "",
     "DC Allocated": ""
   },
   "audits": [
     {
-      "started": "2025-08-27T17:33:32.000Z",
+      "started": "2025-08-27T17:33:24.000Z",
       "ended": "",
       "dc_allocated": "",
       "outcome": "PENDING",
