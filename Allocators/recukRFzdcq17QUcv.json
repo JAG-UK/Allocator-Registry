@@ -4,6 +4,8 @@
   "name": "IPFSForce",
   "allocator_id": "f03019856",
   "organization": "IPFSForce",
+  "metapathway_type": "MDMA",
+  "ma_address": "f410fw325e6novwl57jcsbhz6koljylxuhqq5jnp5ftq",
   "pathway_addresses": {
     "msig": "f23ex4ojevlypxnbjc6kbqjgulqcqtrf4ztjblaqy",
     "signers": [
@@ -20,6 +22,9 @@
     "tranche_schedule": "I will use the standard Allocation Tranche Schedule",
     "required_sps": "4",
     "required_replicas": "4",
+    "tooling": [
+      "smart_contract_allocator"
+    ],
     "github_handles": [
       "ipfsforcezuofu"
     ],
@@ -29,17 +34,17 @@
   "history": {
     "Application Submitted": "2025-08-27T18:06:24.000Z",
     "KYC Submitted": "2025-08-28T09:36:25.000Z",
-    "Approved": "",
+    "Approved": "2025-08-28T09:36:58.000Z",
     "Declined": "",
     "DC Allocated": ""
   },
   "audits": [
     {
       "started": "2025-08-27T18:05:49.000Z",
-      "ended": "",
+      "ended": "2025-08-28T09:36:58.000Z",
       "dc_allocated": "",
       "outcome": "PENDING",
-      "datacap_amount": 5
+      "datacap_amount": "10"
     }
   ],
   "old_allocator_id": ""
