@@ -3,6 +3,8 @@
   "address": "f1xmitblrmxo6ubt2jyokg4flfiruqkaag2oe3gca",
   "name": "Datacap for clients who are paying to store data with storage providers supported by web3mine's Ramo Network",
   "organization": "web3mine AG",
+  "metapathway_type": "MDMA",
+  "ma_address": "f410fw325e6novwl57jcsbhz6koljylxuhqq5jnp5ftq",
   "pathway_addresses": {},
   "associated_org_addresses": "f1xmitblrmxo6ubt2jyokg4flfiruqkaag2oe3gca",
   "application": {
@@ -13,6 +15,9 @@
     "tranche_schedule": "I will use a custom calculation. ",
     "required_sps": "1",
     "required_replicas": "7",
+    "tooling": [
+      "smart_contract_allocator"
+    ],
     "github_handles": [
       "vvkio"
     ],
@@ -22,17 +27,17 @@
   "history": {
     "Application Submitted": "2025-08-28T10:22:42.000Z",
     "KYC Submitted": "2025-08-28T10:28:34.000Z",
-    "Approved": "",
+    "Approved": "2025-08-28T10:29:36.000Z",
     "Declined": "",
     "DC Allocated": ""
   },
   "audits": [
     {
       "started": "2025-08-28T10:22:33.000Z",
-      "ended": "",
+      "ended": "2025-08-28T10:29:36.000Z",
       "dc_allocated": "",
       "outcome": "PENDING",
-      "datacap_amount": 5
+      "datacap_amount": "52"
     }
   ],
   "old_allocator_id": ""
